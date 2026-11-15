@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+/work/
+/vendor/
+/.idea/
+/.vscode/
+*.log
+
+# Local assistant project notes
+/AGENTS.md
